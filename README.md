@@ -9,9 +9,9 @@
 
 - 🐍 I worked on a Python Django project **[Instagram Clone](https://github.com/BoZhan9/InstaDemo)**
 
-- 🍎 I developed an iOS application **[Youtube Clone](https://github.com/she0930she/TeamScanMe)**
+- 🍎 I developed an iOS application **[Youtube Clone](https://github.com/BoZhan9/iOS-YouTube)**
 
-- 👨‍💻 I’m familiar with the MEAN stack **[Full Stack MEAN App](https://github.com/BoZhan9/MEAN-Stack/tree/master)**
+- 👨‍💻 I’m familiar with the MEAN stack **[Full Stack MEAN App](https://github.com/BoZhan9/MEAN-Stack)**
 
 - 📚 Also the MERN stack **[Full Stack MERN App](https://github.com/BoZhan9/Smart-Brain)**
 
