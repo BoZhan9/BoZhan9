@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bozhan9&label=Profile%20views&color=0e75b6&style=flat" alt="bozhan9" /> </p>
 <img align="right" alt="full-stack" width="400" src="https://github.com/BoZhan9/BoZhan9/assets/60616192/a167ea18-13e2-4419-84d9-134436272e7b">
 
-- 📊 I have experience in database and SQL **[COVID-19-Database](https://github.com/BoZhan9/COVID-19-Database)**
+- 📊 I have experience in SQL **[COVID-19-Database](https://github.com/BoZhan9/COVID-19-Database)**
 
 - 🐍 I worked on a Python Django project **[Instagram Clone](https://github.com/BoZhan9/InstaDemo)**
 
