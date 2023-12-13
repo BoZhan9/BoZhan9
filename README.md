@@ -19,7 +19,7 @@
 
 - 💬 I made a **[Console-based live chat system](https://github.com/BoZhan9/Live-Chat-System)**
 
-- 🥂 I can do Java backend **[Java REST API](https://github.com/BoZhan9/Spring-Rest-Api)**
+- 🥂 I can do Java backend **[Java Spring REST APIs](https://github.com/BoZhan9/Spring-Rest-Api)**
 
 
 - 📫 How to reach me **brian.2023.jobs@gmail.com**
